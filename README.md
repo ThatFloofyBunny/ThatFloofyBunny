@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @ThatFloofyBunny
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+# About me
+My name is Floofy! Feel free to refer to me as Bunny too- if you'd like!
 
-<!---
-ThatFloofyBunny/ThatFloofyBunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm interested in learning computer science skills and cybersecurity practices as well as software development and maintenance!
+
+There's many different hobbies and activties I want to delve into to see if something's the right fit for me!
+
+If you want my insight on anything, god forbid, then you can reach out to me!
